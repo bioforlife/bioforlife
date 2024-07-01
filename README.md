@@ -4,7 +4,7 @@
  <img alt="YOUR-ALT-TEXT" src="https://www.colocationamerica.com/wp-content/uploads/2020/03/business-data-analysis.png">
 </picture>
 
-## Hi there 👋
+## Hi there 👋🏿
 
 My name is Jessica Thomas. An aspiring data analyst from the Uk.
 - Analyse multiple datasets using Python and its associated libraries.
@@ -18,14 +18,14 @@ My name is Jessica Thomas. An aspiring data analyst from the Uk.
 |     3|           |           | Bookeh        |
 
 ## Background:
-- Healthcare
-- Biomedical Science Degree
+-⚕️ Healthcare
+-🥼 Biomedical Science Degree
 
 ## Projects:
 A look into how I analyse data to get critical insights.
 
 ## What am I upto?
-- 🔭 I’m currently working on a PowerBI dashboard.
+- 🚧 I’m currently working on a PowerBI dashboard.
 
 ## Connect with me:
 Linkdin
