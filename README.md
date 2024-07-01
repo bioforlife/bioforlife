@@ -14,12 +14,12 @@ My name is Jessica Thomas. An aspiring data analyst from the Uk.
 | Index| Languages | Database  | Visualisation |
 |-----:|-----------|-----------|---------------|
 |     1| Python    | SQL       | Tableau       |
-|     2| SQL       | ProgeSQL  | Matplotlib    |
+|     2| SQL       | ProgreSQL  | Matplotlib    |
 |     3|           |           | Bookeh        |
 
 ## Background:
--⚕️ Healthcare
--🥼 Biomedical Science Degree
+- ⚕️ Healthcare
+- 🥼 Biomedical Science Degree
 
 ## Projects:
 A look into how I analyse data to get critical insights.
