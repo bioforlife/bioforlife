@@ -28,7 +28,7 @@ A look into how I analyse data to get critical insights.
 - 🚧 I’m currently working on a PowerBI dashboard.
 
 ## Connect with me:
-Linkdin
+[Linkdin](https://www.linkedin.com/in/jessica-t-b65550307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 <!--
 **bioforlife/bioforlife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
