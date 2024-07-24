@@ -6,7 +6,7 @@
 
 ## Hi there 👋🏿
 
-My name is Jessica Thomas. An aspiring data analyst from the Uk.
+My name is Jessica Thomas. An aspiring analyst from the Uk.
 - Analyse multiple datasets using Python and its associated libraries.
 - Produce dashboards on Tableau.
 - Produce presentations/reports highlighting critical insights from data.
