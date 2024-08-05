@@ -14,7 +14,7 @@ My name is Jessica Thomas. An aspiring analyst from the Uk.
 | Index| Languages | Database  | Visualisation |
 |-----:|-----------|-----------|---------------|
 |     1| Python    | SQL       | Tableau       |
-|     2| SQL       | ProgreSQL  | Matplotlib    |
+|     2| SQL       | PostgreSQL | Matplotlib    |
 |     3|           |           | Bookeh        |
 
 ## Background:
