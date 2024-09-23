@@ -27,7 +27,7 @@ My name is Jessica Thomas. An aspiring analyst from the Uk.
 A look into how I analyse data to get critical insights.
 
 ## What am I up to?
-- 🚧 I’m currently analysising a bank marketing csv, to predict customer behaviours.
+- 🚧 I’m currently analysising a bank marketing csv, to predict customer behaviours. Decision tree pruning.
 
 ## Connect with me:
 [Linkdin](https://www.linkedin.com/in/jessica-t-b65550307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
